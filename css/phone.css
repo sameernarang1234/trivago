@@ -1,0 +1,13 @@
+.navbar ul li {
+    margin-left: 20px;
+}
+
+.navbar ul {
+    padding-left: 0px;
+    text-align: center;
+    width: 70%;
+}
+
+.horizontal-list-container ul {
+    padding-left: 10%;
+}

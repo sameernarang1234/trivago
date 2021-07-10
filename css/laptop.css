@@ -1,0 +1,21 @@
+.navbar ul {
+    width: 50%;
+}
+
+.nav-item {
+    margin-left: 50px;
+}
+
+.trivago-container {
+    flex-direction: column;
+    width: 80%;
+    text-align: center;
+}
+
+.destinations-container {
+    width: 80%;
+}
+
+.destinations-sub-container div img {
+    width: 100px;
+}

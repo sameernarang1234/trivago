@@ -1,0 +1,15 @@
+.destinations-container {
+    text-align: center;
+}
+
+.destinations-sub-container {
+    flex-direction: column;
+}
+
+.horizontal-list-container {
+    width: 300px;
+}
+
+.horizontal-list-container ul li {
+    font-size: 0.6rem;
+}

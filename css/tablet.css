@@ -1,0 +1,43 @@
+.navbar ul li {
+    font-size: 0.5rem;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.search-container {
+    text-align: center;
+    width: 100%;
+}
+
+.search-sub-container {
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}
+
+.non-first-div {
+    margin-left: 0px;
+}
+
+.search-sub-container button {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.companies-container {
+    width: 100%;
+}
+
+.horizontal-text-container {
+    flex-direction: column;
+}
+
+.horizontal-text-container div h1 {
+    text-align: center;
+}
+
+.non-first-text-div {
+    margin-left: 0px;
+}
